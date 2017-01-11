@@ -11,7 +11,11 @@
 | 01/03/17 | 7.6 | 7.4 | 0.50 | 0.0 | 5.0 | 76.3 |                        |
 
 
-# Change Log
+# Logbook
+
+### 01/07/17
+- Set heater temperature to 74
+[_Back to Top_](#Parameters)
 
 ### 01/05/17
 - Added 3 Zebra Danio
@@ -19,5 +23,38 @@
 
 [_Back to Top_](#Parameters)
 
+### 01/03/17
+- Treated with double-dose of API Stress Zyme (Regular Maint.)
+
+[_Back to Top_](#Parameters)
+
+### 01/01/17
+- Topped off water - about 1/3 Gal
+  - Water was conditioned with Seachem Prime before addition
+
+[_Back to Top_](#Parameters)
+
 ### 12/30/16
 - Found one Zebra Danio deceased in the morning
+
+[_Back to Top_](#Parameters)
+
+### 12/28/16
+- Added 4 Zebra Danio
+- Treated with API Stress Zyme (Double Dose)
+- Treated with API Quick Start
+
+[_Back to Top_](#Parameters)
+
+### 12/27/17
+- Tank Installed & Filled
+- Temp set to 71
+- Filter Installed
+  - Marineland Penguin 150
+- Heater Installed
+  - Aqueon 150W
+- Treated with API Quick Start
+- Treated with API Aquarium Salt
+- Treated with Seachem Prime
+
+[_Back to Top_](#Parameters)
